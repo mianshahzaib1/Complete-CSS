@@ -1,0 +1,12 @@
+.Img1{
+    width: 100px;
+    height: 150px;
+    /* filter: blur(2px); */
+    /* filter: brightness(122%); */
+    /* filter: contrast(200%); */
+    /* filter: grayscale(50%); */
+    /* filter: sepia(100%); */
+   /* filter: invert(1); */
+   /* filter: opacity(0.3); */
+   filter: drop-shadow(0.6);
+}

@@ -1,0 +1,26 @@
+/* The Specifity of These Seletor is 1 */
+h1{
+    color: blueviolet;
+}
+/* The Specifitiy of These Seletor is 10 */
+.red{
+    color: red;
+}
+/* The Specifity of These Seletor is 10 */
+
+.green{
+    color: green;
+}
+/* The Specifity of These Seletor is 10 */
+
+.yellow{
+    color: yellow;
+}
+/* This is an Example of attributes  The specifity of these attributes is 10 */
+[data-x=a]{
+    color: darkcyan;
+}
+/* The specifity of these selector is 0 */
+*{
+    color: aliceblue;
+}

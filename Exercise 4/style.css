@@ -1,0 +1,24 @@
+nav ul li{
+    display: inline;
+    padding: 23px;
+    color: red;
+   
+    
+}
+
+:root{
+    --primarycolor:red;
+    --Seccolor:yellow;
+    --background-color:aqua;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:var(--background-color);
+}
+nav{
+    background-color:var(--Seccolor);
+    border: 2px solid violet;
+}

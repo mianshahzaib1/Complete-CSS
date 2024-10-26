@@ -1,0 +1,21 @@
+.box{
+    background-color: aqua;
+    width: 30px;
+    height: 20px;
+    transition-property:transform;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+    
+}
+.transform{
+    transform:translateX(50%)translateY(100%);
+
+}
+.container{
+    width: 100vw;
+    height: 80vh;
+    background-color: beige;
+
+
+}

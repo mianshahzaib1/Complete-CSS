@@ -1,0 +1,30 @@
+.container{
+    width: 35vw;
+    height: 80vh;
+    background-color: brown;
+
+}
+.div{
+    width: 25px;
+    height: 25px;
+    background-color: #008000;
+    /* animation-name: ShabiKaCode;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-play-state: paused; */
+    animation: ShabiKaCode 4s cubic-bezier(0.42, 0, 0, 1.19) 2s infinite backwards;
+
+}
+@keyframes ShabiKaCode {
+ from{
+  background-color: red;
+ }  
+ to{
+    background-color: blue;
+    transform: translateX(100px);
+ }  
+}

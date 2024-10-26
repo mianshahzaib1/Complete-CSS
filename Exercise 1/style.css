@@ -1,0 +1,27 @@
+.box{
+    width: 25vw;
+    height: 90vh;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: wheat;
+}
+body{
+    background-color: gray;
+}
+
+.image img{
+    width:170px;
+    height:120px;
+    margin: 5px 5px 5px;
+    
+}
+span{
+    padding: 10px;
+    font-family: sans-serif;
+    
+}
+button{
+    background-color: purple;
+    margin-left: 35px;
+
+}

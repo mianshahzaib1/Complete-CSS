@@ -1,0 +1,33 @@
+ /* ::first-letter{
+    color: red;
+} */
+
+/* ::selection{
+    color: aqua;
+    background-color: yellow;
+} */
+
+/* .box:first-child::first-line{
+    color: red;
+} */
+
+/* .boxes::before{
+    content: "Hello Shahzaib ";
+} */
+/* .boxes::after{
+    content: "Hello Shahzaib ";
+    color: red;
+} */
+
+/* [data-color="primary"]{
+    color: yellow;
+} */
+
+/* .box:nth-child(even){
+    background-color: green;
+} */
+
+
+.box:nth-child(2){
+    background-color: red;
+}

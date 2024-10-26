@@ -1,0 +1,35 @@
+.container{
+    width: 60vw;
+    height: 80vh;
+    background-color: orange;
+    position: relative;
+   
+}
+.box{
+   width: 35px;
+   height: 36px;
+   border-radius: 34px;
+   background-color: greenyellow;
+ 
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   animation:translatex 4s linear infinite, translatey 3s ease-out infinite alternate;
+
+}
+@keyframes translatex {
+    from{
+     left: 0;
+    }
+    to{
+    left: 100%;
+    }
+}
+@keyframes translatey {
+    from{
+     bottom: 0;
+    }
+    to{
+     bottom: 100%;
+    }
+}

@@ -1,0 +1,22 @@
+.box{
+    border: 4px solid green;
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 8px solid blue;
+    background-color: black;
+    color: white;
+   
+    
+}
+/* Units in CSS
+px=196 inch
+vh
+vw
+em
+rem
+min-width
+max-width
+*/

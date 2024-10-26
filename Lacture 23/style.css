@@ -1,0 +1,16 @@
+.container{
+    width: 200px;
+    height:180px;
+    background-color:azure;
+    border: 1px solid black;
+    
+}
+img{
+width: 100px;
+height: 130px;
+object-fit: cover;
+object-position: 10px 20px;
+object-fit: fill;
+object-fit: scale-down;
+
+}

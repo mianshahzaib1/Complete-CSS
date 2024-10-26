@@ -1,0 +1,63 @@
+/* h1{
+    font-weight: 100;
+}
+h2{
+    font-weight: 900;
+} */
+
+/* h1{
+    font-size: larger;
+} */
+
+/* h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+} */
+
+/* h1{
+    font-style: italic;
+} */
+
+/* p{
+    text-transform: uppercase;
+}
+
+div{
+    text-transform: lowercase;
+} */
+
+/* h3{
+    text-decoration:line-through;
+} */
+
+
+/* h3{
+    text-align: center;
+    letter-spacing: 20px;
+} */
+
+h1{
+    color: red;
+    background-color: rgb(0,210,180);
+}
+
+h2{
+    color: blue;
+    background-color: #00ff00;
+    
+}
+
+h3{
+    color: blueviolet;
+    background-color: rgba(255,0,0,0.3)
+}
+/* HSL
+Hue
+Saturation
+Light
+*/
+
+/* RGB
+Red
+Green
+Blue */
+

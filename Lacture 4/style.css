@@ -1,0 +1,21 @@
+/* .box{
+    color: red;
+    background: aqua;
+    height: 200px;
+    box-sizing: border-box;
+    border: 2px solid green; */
+
+/* } */
+.box1{
+    background-color: green;
+    border: 2px solid aqua;
+    height: 200px;
+    box-sizing: border-box;
+    
+}
+.box2{
+    background-color: red;
+    border: 2px solid blue;
+    height: 200px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100vw;
+    height: 15vh;
+    background-color: aqua;
+
+}
+nav ul li{
+    display: inline-block;
+    padding: 5px;
+    margin-left: 50px;
+}
+input{
+    margin-left: 100px;
+  
+}
+button{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}

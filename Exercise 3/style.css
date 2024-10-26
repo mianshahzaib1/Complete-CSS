@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100vw;
+    height: 17vh;
+    background-color: brown;
+    position: sticky;
+    top: 0;
+    
+
+}
+.green{
+    width: 100vw;
+    height: 82vh;
+    background-color: green;
+    
+}
+.red{
+    width: 40vw;
+    height: 70vh;
+    background-color: red;
+    margin-left: 15px;
+}
+.purple{
+    width: 40vw;
+    height: 70vh;
+    background-color: blue;
+    margin-left: 350px;
+    position: absolute;
+    top: 57px;
+    
+   
+    
+}
+header{
+    text-align: center;
+    border: 6px solid black;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.icon{
+    width: 10px;
+    height: 15px;
+    background-color: orange;
+    border-radius: 5px;
+    position: fixed;
+    bottom: 2px;
+    right: 23px;
+
+    margin-left: 710px;
+    position: sticky;
+}
